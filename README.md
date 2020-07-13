@@ -1,4 +1,4 @@
-# Neural-Networks
+# Neural Networks
 Collection of educational neural network projects and code
 
 **Subjects Explored:**
